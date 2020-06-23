@@ -1,0 +1,2 @@
+numpy
+scikit-multiflow >= 0.5.3
